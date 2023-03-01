@@ -4,6 +4,14 @@
   #convert:hover {
     background-color: #bcc768;
   }
+  body{
+    background-image: url("https://c1.wallpaperflare.com/preview/492/727/830/thermometer-temperature-measurement-health.jpg");
+    background-repeat: no-repeat;
+    /* margin: 0px;
+    padding: 0px;  */
+    background-size: cover;
+
+  }
   h1 {
     font-family: 'Times New Roman', Times, serif;
     color: #ec520a;
